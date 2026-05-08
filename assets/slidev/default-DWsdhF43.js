@@ -1,1 +1,0 @@
-import{Oo as e,To as t,ao as n}from"../modules/shiki-C920G7_L.js";import{t as r}from"../_plugin-vue_export-helper-B67ILkmu.js";var i={},a={class:`slidev-layout default`};function o(r,i){return t(),n(`div`,a,[e(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as t};
