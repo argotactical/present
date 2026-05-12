@@ -34,16 +34,7 @@ about argo tactical
 <div @click="$slidev.nav.next" class="mt-12 py-1 cursor-pointer hover:bg-gray-100">
   Press Space to continue <carbon:arrow-right />
 </div>
-<!-- bottom-left image -->
-#<a
-#  href="https://argotactical.github.io/present/"
-#  target="_blank"
-#>
-#  <img
-#    src="./images/argotactical_gray.png"
-#    class="absolute bottom-6 left-6 w-8 hover:opacity-80 transition"
-#  />
-#</a>
+
 <!-- bottom-right image -->
 <img
   src="./images/lower-right-corner.jpg"
