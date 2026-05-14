@@ -29,10 +29,10 @@ duration: 15min
 
 # argo 
 
-let's get kraken!
+ballad of argo tactical
 
 <div @click="$slidev.nav.next" class="mt-12 py-1 cursor-pointer hover:bg-gray-100">
-  Press space to continue <carbon:arrow-right />
+  Let's get kraken <carbon:arrow-right />
 </div>
 
 <!-- bottom-right image -->
