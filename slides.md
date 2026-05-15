@@ -42,13 +42,5 @@ ballad of argo tactical
 />
 
 <!--
-The last comment block is presenter slide notes. It is visible and editable in Presenter Mode along with the slide. 
+Presenter slide notes. It is visible and editable in Presenter Mode along with the slide. 
 -->
-
----
-src: ./slides/policies.md
----
-
----
-src: ./slides/events.md
----
