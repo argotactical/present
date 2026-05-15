@@ -1,1 +1,0 @@
-import{B as e,L as t,y as n}from"./modules/shiki-BiiZU2CK.js";import{t as r}from"./_plugin-vue_export-helper-BOai-rQB.js";var i=`/present/assets/argotactical_white-G9RU7ao2.png`,a={},o={class:`slidev-layout default`};function s(r,i){return t(),n(`div`,o,[e(r.$slots,`default`)])}var c=r(a,[[`render`,s]]);export{i as n,c as t};
