@@ -44,3 +44,7 @@ ballad of argo tactical
 <!--
 Presenter slide notes. It is visible and editable in Presenter Mode along with the slide. 
 -->
+
+---
+src: ./slides/post.md
+---
