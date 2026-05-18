@@ -13,5 +13,6 @@
   "devDependencies": {
     "@slidev/cli": "^52.15.1",
     "@slidev/theme-default": "^0.25.0"
+    "slidev-theme-neversink": "^0.3.0"
   }
 }
