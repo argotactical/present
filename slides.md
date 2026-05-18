@@ -1,5 +1,5 @@
 ---
-theme: neversink
+theme: default
 
 fonts:
   sans: JetBrains Mono
