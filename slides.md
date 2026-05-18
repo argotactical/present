@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: neversink
 
 fonts:
   sans: JetBrains Mono
@@ -11,7 +11,7 @@ class: bg-white text-black
 drawings:
   persist: false
 
-transition: slide-down
+transition: slide-left
 comark: true
 duration: 15min
 ---
@@ -46,5 +46,5 @@ Presenter slide notes. It is visible and editable in Presenter Mode along with t
 -->
 
 ---
-src: ./slides/post.md
+src: ./slides/why-we-made-argo.md
 ---
