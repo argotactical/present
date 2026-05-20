@@ -7,14 +7,14 @@ transition: slide-right
 
 origin
 
-We are a collection of oddly shaped creatures with a variety of experiences, backgrounds, knowledge and brains and we engineered argo from the start to be an efficient and effective turn-around company; obsessed with execution velocity and outcome.  
+We are a collection of oddly shaped individuals with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective turn-around company that is obsessed with execution velocity and outcome.  
 
 We fix:
 - Broken transformation programs
 - Broken strategic initiatives
 - Broken promises of value 
 
-Our values show through what we say and do from founders, to our latest recruit. 
+Our values show through what we say and do, from our founders to our latest recruit. 
 
 <div
   @click="$slidev.nav.next"
