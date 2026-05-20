@@ -7,14 +7,14 @@ transition: slide-right
 
 origin
 
-Founded by a bunch of oddly shaped creatures with a variety of experiences, backgrounds, knowledge and brains, argo tactical has been engineered from the start to be an efficient and effective turn-around company; obsessed with execution velocity and outcome.  
+We are a collection of oddly shaped creatures with a variety of experiences, backgrounds, knowledge and brains and we engineered argo from the start to be an efficient and effective turn-around company; obsessed with execution velocity and outcome.  
 
 We fix:
 - Broken transformation programs
 - Broken strategic initiatives
 - Broken promises of value 
 
-Our values are what we live and breath, they give us edge and they show through what we say and do from founders, to our latest recruit. 
+Our values show through what we say and do from founders, to our latest recruit. 
 
 <div
   @click="$slidev.nav.next"
