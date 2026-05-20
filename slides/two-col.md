@@ -1,20 +1,10 @@
----
-layout: two-cols-title
-columns: is-6
-align: l-lt-lt
-title: Two Cols Title
+yout: two-cols
 ---
 
-This is in the default slot
+# Left Column
+This content will appear on the left side.
 
-:: title ::
+::right::
 
-# My slide title
-
-:: left ::
-
-This is the left column slot!
-
-:: right ::
-
-This is the right column slot!
+# Right Column
+This content will appear on the right side.
