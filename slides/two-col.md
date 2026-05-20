@@ -1,5 +1,7 @@
 ---
 layout: two-cols
+class: bg-white text-black
+transition: slide-right
 ---
 
 # Left Column
@@ -16,3 +18,12 @@ Some supporting content here.
 
 - Another point
 - More detail
+
+>
+  Keep kraken on <carbon:arrow-right />
+</div>
+
+<img
+  src="../images/argotactical_gray.png"
+  class="absolute bottom-6 left-6 w-8"
+/>
