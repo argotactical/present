@@ -50,5 +50,5 @@ src: ./slides/why-we-made-argo.md
 ---
 
 ---
-src: ./slides/
+src: ./slides/typical-engagement.md
 ---
