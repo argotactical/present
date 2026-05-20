@@ -19,9 +19,7 @@ Some supporting content here.
 - Another point
 - More detail
 
->
-  Keep kraken on <carbon:arrow-right />
-</div>
+Keep kraken on <carbon:arrow-right />
 
 <img
   src="../images/argotactical_gray.png"
