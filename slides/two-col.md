@@ -1,10 +1,18 @@
-yout: two-cols
+---
+layout: two-cols
 ---
 
 # Left Column
-This content will appear on the left side.
+
+- Point one
+- Point two
+- Point three
 
 ::right::
 
 # Right Column
-This content will appear on the right side.
+
+Some supporting content here.
+
+- Another point
+- More detail
