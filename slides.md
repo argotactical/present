@@ -48,3 +48,7 @@ Presenter slide notes. It is visible and editable in Presenter Mode along with t
 ---
 src: ./slides/why-we-made-argo.md
 ---
+
+---
+src: ./slides/two-col.md
+---
