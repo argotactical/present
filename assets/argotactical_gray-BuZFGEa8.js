@@ -1,0 +1,1 @@
+var e=`/present/assets/argotactical_gray-DxI_nEsl.png`;export{e as t};
