@@ -50,5 +50,5 @@ src: ./slides/why-we-made-argo.md
 ---
 
 ---
-src: ./slides/two-col.md
+src: ./slides/
 ---
