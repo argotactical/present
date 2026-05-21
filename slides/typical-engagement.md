@@ -1,6 +1,6 @@
 ---
-class: bg-black text-green
-transition: slide-right
+class: bg-white text-black
+transition: slide-left
 ---
 
 # argo  
@@ -8,9 +8,9 @@ transition: slide-right
 who we serve
 
 We are hired by:
-- you
-- them
-- others
+- CEO/Board
+- COO/CIO/CTO
+- Holding company
 
 
 <div

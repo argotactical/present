@@ -1,6 +1,6 @@
 ---
 class: bg-white text-black
-transition: slide-right
+transition: slide-left
 ---
 
 # argo  
