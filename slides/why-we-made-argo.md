@@ -3,9 +3,9 @@ class: bg-white text-black
 transition: slide-left
 ---
 
-# argo  
+#origin
 
-origin
+@argotactical
 
 We are a collection of remarkably bright creatures with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective turn-around company that is obsessed with execution velocity and outcome.  
 

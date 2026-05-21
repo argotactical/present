@@ -3,14 +3,14 @@ class: bg-white text-black
 transition: slide-left
 ---
 
-# argo  
+# who we serve 
 
-who we serve
+@argotactical
 
-We are hired by:
-- CEO/Board
-- COO/CIO/CTO
-- Holding company
+We are solicited by:
+- CEO/Board (strategic remediation programs)
+- COO/CIO/CTO (technology transformation programs and AI)
+- Holding company (acquisition and divestiture activity)
 
 
 <div
