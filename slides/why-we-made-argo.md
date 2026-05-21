@@ -7,7 +7,7 @@ transition: slide-right
 
 origin
 
-We are a collection of oddly shaped individuals with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective turn-around company that is obsessed with execution velocity and outcome.  
+We are a collection of remarkably bright creatures with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective turn-around company that is obsessed with execution velocity and outcome.  
 
 We fix:
 - Broken transformation programs
