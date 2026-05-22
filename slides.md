@@ -42,7 +42,7 @@ ballad of argo tactical
 />
 
 <!--
-Presenter slide notes. It is visible and editable in Presenter Mode along with the slide. 
+Welcome and thank you for asking about argo tactical… 
 -->
 
 ---
@@ -60,3 +60,7 @@ src: ./slides/4.md
 ---
 src: ./slides/5.md
 ---
+
+——-
+src: ./slides/6.md
+——-
