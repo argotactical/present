@@ -54,10 +54,6 @@ src: ./slides/3.md
 ---
 
 ---
-src: ./slides/4.md
----
-
----
 src: ./slides/5.md
 ---
 
