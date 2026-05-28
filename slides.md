@@ -57,6 +57,3 @@ src: ./slides/3.md
 src: ./slides/5.md
 ---
 
----
-src: ./slides/6.md
----
