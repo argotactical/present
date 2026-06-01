@@ -46,14 +46,14 @@ Welcome and thank you for asking about argo tactical…
 -->
 
 ---
-src: ./slides/2.md
+src: ./slides/argo-origin.md
 ---
 
 ---
-src: ./slides/3.md
+src: ./slides/who-we-serve.md
 ---
 
 ---
-src: ./slides/5.md
+src: ./slides/confidentiality.md
 ---
 
