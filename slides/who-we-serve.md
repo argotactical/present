@@ -11,7 +11,7 @@ We are solicited by:
 - CEO/Board (strategic remediation programs)
 - COO/CIO/CTO (technology transformation and AI)
 - Holding companies (acquisition and divestiture)
-- Family offices (~~entourages~~ bespoke)
+- Family offices (~~entourage~~ bespoke)
 
 <div
   @click="$slidev.nav.next"
