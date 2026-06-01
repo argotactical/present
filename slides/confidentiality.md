@@ -12,17 +12,12 @@ We don't publish:
 - Identifiable program details
 - Identifiable client information 
 
-We love secrecy: 
-- We don't disclose who our clients are 
-- We don't like to ask clients to be references
-- We don't like when a potential client pesters a previous client 
+We prefer discretion: 
+- We don't disclose who our clients are; we like them secret 
+- We don't like to ask clients to be references; it feels awkward to us 
+- We don't like when a potential client demands to speak with a previous client 
 
-We appreciate:
-- Introductions; it's our preferred model
-- Repeat business; we love your latest challenge
-
-
-
+Sometimes we seek agreement for modification - but we don't like it
 
 <img
   src="../images/argotactical_gray.png"
