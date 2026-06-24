@@ -11,7 +11,10 @@ We don't publish:
 - Customer names & logos
 
 We prefer discretion: 
-- We tackle thorny issues, no one want noise about it
+- We tackle thorny issues, no one wants noise about it
+
+We build and sustain careers: 
+- We take moments that could derail careers and make them springboards
 
 <img
   src="../images/argotactical_gray.png"
