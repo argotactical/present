@@ -7,13 +7,8 @@ transition: slide-left
 
 @argotactical
 
-
-<div
-  @click="$slidev.nav.next"
-  class="absolute bottom-6 right-6 py-1 cursor-pointer hover:bg-gray-100"
->
-  Keep kraken on <carbon:arrow-right />
-</div>
+Telegram: argotactical
+Signal: argotactical.01
 
 <img
   src="../images/argotactical_gray.png"

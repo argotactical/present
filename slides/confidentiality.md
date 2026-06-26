@@ -13,8 +13,8 @@ We don't publish:
 We prefer discretion: 
 - We tackle thorny issues, no one wants noise about it
 
-We build and sustain careers: 
-- We take moments that could derail careers and make them springboards
+We protect legacy: 
+- We get to your outcome, allowning your fingerprint on the organizational change to be what you intended
 
 <div
   @click="$slidev.nav.next"
