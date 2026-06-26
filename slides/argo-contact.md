@@ -7,7 +7,7 @@ transition: slide-left
 
 @argotactical
 
-How tonrach out to argotactical securely:
+How to reach out to argotactical securely:
 - Telegram: argotactical
 - Signal: argotactical.01
 
