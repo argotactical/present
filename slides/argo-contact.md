@@ -7,8 +7,9 @@ transition: slide-left
 
 @argotactical
 
-Telegram: argotactical
-Signal: argotactical.01
+How tonrach out to argotactical securely:
+- Telegram: argotactical
+- Signal: argotactical.01
 
 <img
   src="../images/argotactical_gray.png"

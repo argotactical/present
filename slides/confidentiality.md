@@ -14,7 +14,7 @@ We prefer discretion:
 - We tackle thorny issues, no one wants noise about it
 
 We protect legacy: 
-- We get to your outcome, allowning your fingerprint on the organizational change to be what you intended
+- We get to your outcome fast, allowing your fingerprint on the organizational change to be what you intended
 
 <div
   @click="$slidev.nav.next"
