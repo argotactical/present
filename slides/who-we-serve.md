@@ -7,11 +7,7 @@ transition: slide-left
 
 @argotactical
 
-We are solicited by:
-- CEO/Board (strategic remediation programs)
-- COO/CIO/CTO (technology transformation and AI)
-- Holding companies (acquisition and divestiture)
-- Family offices (~~entourage~~ bespoke services)
+argo's services are tailored to leaders of privately held businesses, family enterprises and emerging growth companies
 
 <div
   @click="$slidev.nav.next"
