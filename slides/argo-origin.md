@@ -7,12 +7,7 @@ transition: slide-left
 
 @argotactical
 
-We are a collection of remarkably bright creatures with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective turn-around company that is obsessed with execution velocity and outcome.  
-
-We fix:
-- Broken transformation programs
-- Broken strategic initiatives
-- Broken promises of value 
+We are a collection of remarkably bright creatures with a variety of experiences, backgrounds, knowledge and brains, and we have engineered argo from the start to be an efficient and effective program turn-around company that is obsessed with execution velocity and outcome.  
 
 Our values show through what we say and do, from our founders to our latest recruit. 
 
