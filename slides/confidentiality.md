@@ -7,9 +7,9 @@ transition: slide-left
 
 @argotactical
 
-Our clients hire us to tackle thorny issues, and no one appreciates noise about it. We have strict policies about disclosure for this reason. 
+Our clients hire us to tackle thorny issues, and no one appreciates noise about it.  
 
-Sometimes a client will reference our name, our contribution, or the outcome we achieved, and it makes it to someones ink. This happens from time to time, and it refelects their enthusiasm for our efforts. If this is how you discovered argotactical, reach out to that individual and ask them for an account of our work, and if we sound like a fit, ask them to make an introduction.    
+Sometimes a client will reference our brand, our contribution, or the outcome we achieved, and it makes it to someones news feed. This happens from time to time, and it refelects their enthusiasm for our efforts. If this is how you discovered argotactical, reach out to that individual and ask them for an account of our work, and if we sound like a fit, ask them to make an introduction.    
 
 <div
   @click="$slidev.nav.next"
