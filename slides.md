@@ -27,9 +27,9 @@ duration: 15min
   href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100..800&display=swap"
 />
 
-# argo 
+#ballad 
 
-ballad of argo tactical
+of argotactical 
 
 <div @click="$slidev.nav.next" class="mt-12 py-1 cursor-pointer hover:bg-gray-100">
   Let's get kraken <carbon:arrow-right />
