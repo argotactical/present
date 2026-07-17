@@ -7,7 +7,7 @@ transition: slide-left
 
 @argotactical
 
-Our services are tailored to leaders of privately held businesses, family enterprises and emerging growth companies
+Our services are tailored to leaders of privately held businesses, family enterprises, community development financial institutions and emerging growth companies
 
 <div
   @click="$slidev.nav.next"
