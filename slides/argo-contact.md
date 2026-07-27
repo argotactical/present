@@ -10,6 +10,7 @@ transition: slide-left
 How to reach out to argotactical securely:
 - Telegram: argotactical
 - Signal: argotactical.01
+- Matrix: @argotactical:matrix.org
 
 <img
   src="../images/argotactical_gray.png"
